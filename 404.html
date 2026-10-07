@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Redirecting…</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="refresh" content="0; url=./">
+<script>
+// Works for both user sites (/) and project sites (/repo-name/)
+var p=location.pathname.split('/'),base=location.hostname.endsWith('github.io')&&p[1]?'/'+p[1]+'/':'/';
+location.replace(base);
+</script></head>
+<body style="font-family:system-ui;text-align:center;padding:3rem"><p>Page not found. <a href="./">Back to Plov Express 🍚</a></p></body></html>
