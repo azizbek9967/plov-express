@@ -8,3 +8,5 @@ Static ordering demo: menu → cart → checkout → live tracking → rating. N
 3. Open `https://<user>.github.io/<repo>/` after a minute.
 
 Files: `index.html` (app) · `404.html` (redirects unknown URLs home) · `.nojekyll` (skips Jekyll) · `robots.txt`.
+
+<img width="1512" height="748" alt="image" src="https://github.com/user-attachments/assets/99cdd0cf-d45e-4f06-bd59-b984902263ac" />
